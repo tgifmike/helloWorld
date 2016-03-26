@@ -1,2 +1,5 @@
 # helloWorld
-this is my first.
+//this is my first.
+
+cout  << "Hello world" << endl;
+
